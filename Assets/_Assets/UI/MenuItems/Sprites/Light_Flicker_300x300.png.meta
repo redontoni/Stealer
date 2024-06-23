@@ -1,0 +1,2912 @@
+fileFormatVersion: 2
+guid: a9b31e29cc6e7df4399813a5c59d0407
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3328
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c107a78c440cc488e5ca6a33d94cb4
+      internalID: 1757883712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3328
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62977364e78890f45b24f0332571ffda
+      internalID: 246045811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3328
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba838beaf1cb8d042ba777311637ff72
+      internalID: -1476386117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_3
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 3328
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230e272cebd058848a13c02dc1352889
+      internalID: 1256885376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_4
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 3328
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4309bde113af7e74abdda81d0cd88ab4
+      internalID: 313970927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_5
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3328
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6647be93e4071c04fb69a72238e46d47
+      internalID: 841577936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_6
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 3328
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0833bee6f99136c46b631525624dfb5b
+      internalID: -2050277945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_7
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 3328
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032d628338d826542bc72271a446107d
+      internalID: -2119275029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_8
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 3328
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00643af00d35c4b41afa1c49223b29d7
+      internalID: -662487841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_9
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 3328
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb64a0fa47aa841ae1a61a63a82a26
+      internalID: 1491185925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_10
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 3328
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d316744a4efaab4ea93ce519ce67659
+      internalID: -1657337531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_11
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 3328
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e145ab1a83bb0468b380a1cb0a0d3f
+      internalID: 461928436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3027
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8d3e08921a65941a51f43ddebf6e9c
+      internalID: -1867899847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3027
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c33e01c7c438948a5653e8759bcb76
+      internalID: 40558561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_14
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3027
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b835ebcbf44b65246934028ae0409685
+      internalID: 1233779024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_15
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 3027
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c09b93eed44444ebfe841fc12e9895
+      internalID: -770893257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_16
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 3027
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfa842529c4cac498bb3efa6f85b4c9
+      internalID: -791479747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_17
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3027
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff90a852f3020447b22c466434097b1
+      internalID: -259076191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_18
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 3027
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321fd084b849ff44f97104bfc2c6a684
+      internalID: -609230261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_19
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 3027
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f8f22a906637340bd7f53e5e2a0137
+      internalID: -501363172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_20
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 3027
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381524ace1d9c9f4d8f1cede5e9bc976
+      internalID: -1267827667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_21
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 3027
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2f358acfa633c4f82c19dc8e176689
+      internalID: -1284743292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_22
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 3027
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203b9c60470fef644bac8bfa2a2801d4
+      internalID: 1373683736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_23
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 3027
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ee0b567312cd745b1223868734ed52
+      internalID: -655522238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2726
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec11d34a062e46d4e9e16739cd62d2d9
+      internalID: 107430492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2726
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2ef412ead47a40aa075887d3b9a57
+      internalID: -176886186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_26
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2726
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a0bec74da292441939e110df87acf7
+      internalID: 1619175276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_27
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2726
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b8da11432fd204fa4273fe639015b0
+      internalID: 123265542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_28
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2726
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc20c36bc83fb8448b2065db9153a4c4
+      internalID: -1166850486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_29
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2726
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654b4311f37ac2744992125a40d27f01
+      internalID: 2005470753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_30
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2726
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979ce5b46c09b2e46bfca757c11452dc
+      internalID: 639060193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_31
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2726
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713acc737a6944d489604115b905df99
+      internalID: -1164104017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_32
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2726
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15e5cd9bc2539a43975e7389414ab41
+      internalID: 1957404326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_33
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 2726
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868694b186b0584bb9f2b8539432ecc
+      internalID: 752123968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_34
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 2726
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7104a960e617498d01dedaa4a25bc
+      internalID: -1717935813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_35
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 2726
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1104e7069ffb0e54ca4b39ca148a42b8
+      internalID: 1950877657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2428
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15aea595a06e6d4389baf6cf6b2da4e
+      internalID: 1596700044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2428
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd6fc8e8144c2f45b941694164d7098
+      internalID: -1236706971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_38
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2428
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558f2aeec1b1dfb4181d736adaba1404
+      internalID: -913885467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_39
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2428
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b31c7abec891c448e073993600e26f
+      internalID: 1714946321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_40
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2428
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5621c8655114be4184f82df0a8d4df4
+      internalID: 1236961118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_41
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2428
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f1cfd69ca6f8544b27489d049c715e
+      internalID: -25679038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_42
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2428
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0236c8a6b4bd74abd2488fc288af4f
+      internalID: -283933957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_43
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2428
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcae18640b2b354e98d56af65e482a3
+      internalID: 644968452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_44
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2428
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f5a22923a93b4d9334b1313aaae8b
+      internalID: -1679969300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_45
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 2428
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a8dbfbba2fd00459e747ef198481cd
+      internalID: 110420564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_46
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 2428
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0337e3b874f09b84d8d5b2e493216a71
+      internalID: -1083301065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_47
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 2428
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46934ac1a0266c4b8814d05ee27db09
+      internalID: -655483534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2127
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dc8234eb6dd4447afded41dc56cca8
+      internalID: 634022502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2127
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b21736e7f6bb63448ed89c8f87b7099
+      internalID: -571554280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_50
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2127
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7e8e2ded040374db3eab13288d306b
+      internalID: 1444554174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_51
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2127
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9775846773db1724d9ef6b18def45094
+      internalID: 32800230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_52
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2127
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4390fab31c245341ac80dd3e301faf6
+      internalID: -724348215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_53
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2127
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bffc96423db8f4daa2eeca9aafe018
+      internalID: -471196688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_54
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2127
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dc5d4f388b5ec40985da566dd56b08
+      internalID: -1520819984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_55
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2127
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d9bc70b403264caaabb18eb9951eb
+      internalID: -758922988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_56
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2127
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5858fe5da1c2c7b4693a543117c80199
+      internalID: 1289671428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_57
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 2127
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3d9df6721a4674eba8d947b7348c4c
+      internalID: -670171007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_58
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 2127
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee3e51254bdfae4394282d8746a6306
+      internalID: -430812008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_59
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 2127
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c3e83f88e46e14cb22ae941426255a
+      internalID: 735081195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1826
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187b621f95547eb4cb5e75ddf2e432d6
+      internalID: -1471508553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1826
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e764150969a3ffa448a5cbcec7d9d6b9
+      internalID: -12525224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_62
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1826
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe8a12d4c7233b48a50f76a9e0871e2
+      internalID: -1109959180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_63
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1826
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce9385f5e69724192b46d862e6bacb
+      internalID: 1074448711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_64
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1826
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007942055dd5ca74db2f80e4d22b2a76
+      internalID: 39939537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_65
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1826
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b12f811739eae84cb09755bb2d63326
+      internalID: 6969930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_66
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1826
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d961527056195d748871bd7ad4aa92f4
+      internalID: -950712359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_67
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1826
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7aa30266d86b6448317af54a70f59b
+      internalID: -1035230508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_68
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1826
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0dc835798f2d54fbe7b408be5b2b3d
+      internalID: -308870825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_69
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 1826
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14ba6fa0e1d67847802d099ad7729f5
+      internalID: 167357056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_70
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1826
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79380c83da917134ea90229e5353f1e3
+      internalID: -2092331051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_71
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 1826
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb018a13da93fe44bcf031c2bf08b2d
+      internalID: -2091989807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_72
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1528
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d00d97550e84e44395605e0b3355de7
+      internalID: -990744556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_73
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1528
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcabe8a282a5fe40bb9a57b66c6d4f2
+      internalID: -1115271362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_74
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1528
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a102b4a44bbe44288f66ff63107dd1
+      internalID: 1811576978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_75
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1528
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c6483225497224799e0d63cd609b23
+      internalID: 264985532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_76
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1528
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6ffe7b893cfad4a8d6baf55e1f7fe6
+      internalID: -421934105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_77
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1528
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2089c3c777a0da409ace975c9285cc9
+      internalID: 917741905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_78
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1528
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1270db0288b3e0d4fbd866ca07e95b75
+      internalID: 136918198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_79
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1528
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b87841e4c318874684f5e11c7204d29
+      internalID: 561692748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_80
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1528
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1be85b8381e5749905d41457e66a00
+      internalID: -670775132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_81
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 1528
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c9f3dd0454ede4c91770d5f7e3b3ce
+      internalID: -1860985513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_82
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1528
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8bbc2a12c7afa42b241dcd514900b8
+      internalID: -1290984934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_83
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 1528
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eef148811493284dabf787290f11647
+      internalID: 88998233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_84
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1227
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fe353c447ccad4c8867d792289b97d
+      internalID: -1789998870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_85
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1227
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69adc6b33a4eb6429796ac0245f43b7
+      internalID: -2045982689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_86
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1227
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1983ca267a1fc142ad9068b0704a6de
+      internalID: -1216169586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_87
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1227
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e470ab2abc012184285ed67f521afe02
+      internalID: -230037254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_88
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1227
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169741aa7a18034ead7c4037a146e65
+      internalID: -1089397411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_89
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1227
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b60ed7f19a8434d9c6d1b5356b49ea
+      internalID: 1019956320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_90
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1227
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4434ff4cb086fba4a8e401bd3ec88469
+      internalID: -45225658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_91
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1227
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aed9e84ae3ab943bf8b82a2a8f366a
+      internalID: -865230361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_92
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1227
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1efe11cff2fde478d32bff864857a3
+      internalID: 621889273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_93
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 1227
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0218259030d04438a8083158e80dcb
+      internalID: -1105302764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_94
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1227
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97971b90c686cb14eb955e62c757f634
+      internalID: 671967859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_95
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 1227
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2553acd1247d71240960b1720cdc9248
+      internalID: -2054083272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_96
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 926
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b215eba3b9dc7544695f27c8ce618bb3
+      internalID: 615728742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_97
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 926
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86406b724df99534f9c03ac3418162b3
+      internalID: -1240597181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_98
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 926
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d2713b648b30040b01dc15c256bc86
+      internalID: -976147139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_99
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 926
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad17ecbb1c79dea4a94b82765e0b3080
+      internalID: -1141412948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_100
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 926
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2690a99a3ff484bab2c192197a8c83
+      internalID: 1951313753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_101
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 926
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9084912053317bb4987afb346c69925e
+      internalID: -188647437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_102
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 926
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a123ded97c743cf439eb7eaabe9ffa13
+      internalID: 120524401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_103
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 926
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4843595d4f90274a8a1bf313ecbe893
+      internalID: -181593642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_104
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 926
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0216c843016dd4b4b84c086db790e4d1
+      internalID: 805700548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_105
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 926
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7364c04106fce854d886509bcdef877d
+      internalID: -575296410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_106
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 926
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a63cae9a9abf3d40862a9d538a219ee
+      internalID: 582840343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_107
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 926
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94001158d59cb34da591ab2cae603c9
+      internalID: 721023148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_108
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 628
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9382dd6161edfcb4c9ee50730a92357a
+      internalID: -1164029585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_109
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 628
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8268b0bb3b23e4f980b526cfd2e2c0
+      internalID: -539931593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_110
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 628
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a3057200d83be40a9bb12e19dc552c
+      internalID: 857923492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_111
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 628
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23033d7ed509c534392cf512e62682b5
+      internalID: -1900730634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_112
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 628
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f838d285ee8e9743a3d01b21a1b8076
+      internalID: -1949025929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_113
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 628
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d0a9ec0af8fe443a65cfb8b0935e41
+      internalID: -656472087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_114
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 628
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755f02524ea557b47b8984910e932693
+      internalID: -1685607548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_115
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 628
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c45eb6455f99144c909aa8cbdf563fb
+      internalID: -877219034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_116
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 628
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3950fb2cc7f8524a97f9730e32f38d6
+      internalID: 1451815718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_117
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 628
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d8685dc0642447ae425b74a8bc5fe
+      internalID: -1617379451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_118
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 628
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4ef7ace462d364fa9d0b1e73621d6d
+      internalID: -386695665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_119
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 628
+        width: 203
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c20fb3fb41a49498b63a7109e8900f
+      internalID: -1251007515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_120
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 327
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6919b9b622d32cc4f8e9892f6256a495
+      internalID: 1697251457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_121
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 327
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d6d63f584e5f24ba268cf2df3a9534
+      internalID: -1833602483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_122
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 327
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b542e88bab89ee840b59b470c2f0cdf8
+      internalID: 1751578033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_123
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 327
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb71e2de45d4464fb151f051e914f33
+      internalID: 767992796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_124
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 327
+        width: 202
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc06d12e301a8d41afe73aadc2eaf2d
+      internalID: -1922157185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light_Flicker_300x300_125
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 327
+        width: 203
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d5aa0752ade1c478ac6754aaedb0ff
+      internalID: 1383289567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Light_Flicker_300x300_0: 1757883712
+      Light_Flicker_300x300_1: 246045811
+      Light_Flicker_300x300_10: -1657337531
+      Light_Flicker_300x300_100: 1951313753
+      Light_Flicker_300x300_101: -188647437
+      Light_Flicker_300x300_102: 120524401
+      Light_Flicker_300x300_103: -181593642
+      Light_Flicker_300x300_104: 805700548
+      Light_Flicker_300x300_105: -575296410
+      Light_Flicker_300x300_106: 582840343
+      Light_Flicker_300x300_107: 721023148
+      Light_Flicker_300x300_108: -1164029585
+      Light_Flicker_300x300_109: -539931593
+      Light_Flicker_300x300_11: 461928436
+      Light_Flicker_300x300_110: 857923492
+      Light_Flicker_300x300_111: -1900730634
+      Light_Flicker_300x300_112: -1949025929
+      Light_Flicker_300x300_113: -656472087
+      Light_Flicker_300x300_114: -1685607548
+      Light_Flicker_300x300_115: -877219034
+      Light_Flicker_300x300_116: 1451815718
+      Light_Flicker_300x300_117: -1617379451
+      Light_Flicker_300x300_118: -386695665
+      Light_Flicker_300x300_119: -1251007515
+      Light_Flicker_300x300_12: -1867899847
+      Light_Flicker_300x300_120: 1697251457
+      Light_Flicker_300x300_121: -1833602483
+      Light_Flicker_300x300_122: 1751578033
+      Light_Flicker_300x300_123: 767992796
+      Light_Flicker_300x300_124: -1922157185
+      Light_Flicker_300x300_125: 1383289567
+      Light_Flicker_300x300_13: 40558561
+      Light_Flicker_300x300_14: 1233779024
+      Light_Flicker_300x300_15: -770893257
+      Light_Flicker_300x300_16: -791479747
+      Light_Flicker_300x300_17: -259076191
+      Light_Flicker_300x300_18: -609230261
+      Light_Flicker_300x300_19: -501363172
+      Light_Flicker_300x300_2: -1476386117
+      Light_Flicker_300x300_20: -1267827667
+      Light_Flicker_300x300_21: -1284743292
+      Light_Flicker_300x300_22: 1373683736
+      Light_Flicker_300x300_23: -655522238
+      Light_Flicker_300x300_24: 107430492
+      Light_Flicker_300x300_25: -176886186
+      Light_Flicker_300x300_26: 1619175276
+      Light_Flicker_300x300_27: 123265542
+      Light_Flicker_300x300_28: -1166850486
+      Light_Flicker_300x300_29: 2005470753
+      Light_Flicker_300x300_3: 1256885376
+      Light_Flicker_300x300_30: 639060193
+      Light_Flicker_300x300_31: -1164104017
+      Light_Flicker_300x300_32: 1957404326
+      Light_Flicker_300x300_33: 752123968
+      Light_Flicker_300x300_34: -1717935813
+      Light_Flicker_300x300_35: 1950877657
+      Light_Flicker_300x300_36: 1596700044
+      Light_Flicker_300x300_37: -1236706971
+      Light_Flicker_300x300_38: -913885467
+      Light_Flicker_300x300_39: 1714946321
+      Light_Flicker_300x300_4: 313970927
+      Light_Flicker_300x300_40: 1236961118
+      Light_Flicker_300x300_41: -25679038
+      Light_Flicker_300x300_42: -283933957
+      Light_Flicker_300x300_43: 644968452
+      Light_Flicker_300x300_44: -1679969300
+      Light_Flicker_300x300_45: 110420564
+      Light_Flicker_300x300_46: -1083301065
+      Light_Flicker_300x300_47: -655483534
+      Light_Flicker_300x300_48: 634022502
+      Light_Flicker_300x300_49: -571554280
+      Light_Flicker_300x300_5: 841577936
+      Light_Flicker_300x300_50: 1444554174
+      Light_Flicker_300x300_51: 32800230
+      Light_Flicker_300x300_52: -724348215
+      Light_Flicker_300x300_53: -471196688
+      Light_Flicker_300x300_54: -1520819984
+      Light_Flicker_300x300_55: -758922988
+      Light_Flicker_300x300_56: 1289671428
+      Light_Flicker_300x300_57: -670171007
+      Light_Flicker_300x300_58: -430812008
+      Light_Flicker_300x300_59: 735081195
+      Light_Flicker_300x300_6: -2050277945
+      Light_Flicker_300x300_60: -1471508553
+      Light_Flicker_300x300_61: -12525224
+      Light_Flicker_300x300_62: -1109959180
+      Light_Flicker_300x300_63: 1074448711
+      Light_Flicker_300x300_64: 39939537
+      Light_Flicker_300x300_65: 6969930
+      Light_Flicker_300x300_66: -950712359
+      Light_Flicker_300x300_67: -1035230508
+      Light_Flicker_300x300_68: -308870825
+      Light_Flicker_300x300_69: 167357056
+      Light_Flicker_300x300_7: -2119275029
+      Light_Flicker_300x300_70: -2092331051
+      Light_Flicker_300x300_71: -2091989807
+      Light_Flicker_300x300_72: -990744556
+      Light_Flicker_300x300_73: -1115271362
+      Light_Flicker_300x300_74: 1811576978
+      Light_Flicker_300x300_75: 264985532
+      Light_Flicker_300x300_76: -421934105
+      Light_Flicker_300x300_77: 917741905
+      Light_Flicker_300x300_78: 136918198
+      Light_Flicker_300x300_79: 561692748
+      Light_Flicker_300x300_8: -662487841
+      Light_Flicker_300x300_80: -670775132
+      Light_Flicker_300x300_81: -1860985513
+      Light_Flicker_300x300_82: -1290984934
+      Light_Flicker_300x300_83: 88998233
+      Light_Flicker_300x300_84: -1789998870
+      Light_Flicker_300x300_85: -2045982689
+      Light_Flicker_300x300_86: -1216169586
+      Light_Flicker_300x300_87: -230037254
+      Light_Flicker_300x300_88: -1089397411
+      Light_Flicker_300x300_89: 1019956320
+      Light_Flicker_300x300_9: 1491185925
+      Light_Flicker_300x300_90: -45225658
+      Light_Flicker_300x300_91: -865230361
+      Light_Flicker_300x300_92: 621889273
+      Light_Flicker_300x300_93: -1105302764
+      Light_Flicker_300x300_94: 671967859
+      Light_Flicker_300x300_95: -2054083272
+      Light_Flicker_300x300_96: 615728742
+      Light_Flicker_300x300_97: -1240597181
+      Light_Flicker_300x300_98: -976147139
+      Light_Flicker_300x300_99: -1141412948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
